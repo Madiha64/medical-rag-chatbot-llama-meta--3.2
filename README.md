@@ -104,6 +104,12 @@ Sources:
 * Docker Deployment
 
 ---
+## Notebook Access
+
+The development notebooks are available in the `notebooks/` folder.
+
+**Note:** If GitHub cannot render the notebook preview, click **Raw** to download the `.ipynb` file and open it in Google Colab, Jupyter Notebook, or Jupyter Lab. The notebook files are valid and executable.
+
 
 ## Author
 
