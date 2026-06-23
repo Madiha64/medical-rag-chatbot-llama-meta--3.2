@@ -1,0 +1,10 @@
+flask
+transformers
+torch
+accelerate
+huggingface-hub
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers

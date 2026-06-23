@@ -1,0 +1,13 @@
+**pycache**/
+*.pyc
+
+medical_faiss/
+
+.env
+
+venv/
+env/
+
+.cache/
+
+*.log
